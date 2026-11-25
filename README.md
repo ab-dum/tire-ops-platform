@@ -2,7 +2,7 @@
 
 An in-house operations platform that replaced a rigid third-party ERP and spreadsheets for a tire distribution business, built with AI as the engineering partner.
 
-**Live case study:** [https://KULLANICIADI.github.io/REPOADI/](https://ab-dum.github.io/tire-ops-platform/)
+**Live case study:** [[https://KULLANICIADI.github.io/REPOADI/](https://ab-dum.github.io/tire-ops-platform/)](https://ab-dum.github.io/tire-ops-platform/)
 
 ## What it does
 
